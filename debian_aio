@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://trvpnpro.xyz/api/authentication';
 API_KEY='@@@RADEV@@@';
-DOMAIN=4e2o.mbplusvpn.com
-NS=1avd.mbplusvpn.com
+DOMAIN=lymv.trvpnpro.xyz
+NS=kf4o.trvpnpro.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
