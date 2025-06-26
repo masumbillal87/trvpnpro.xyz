@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='209.159.151.58';
-USER='dxplusde_tr';
-PASS='dxplusde_tr';
-DBNAME='dxplusde_tr';
+USER='yocard_tr';
+PASS='yocard_tr';
+DBNAME='yocard_tr';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://trvpnpro.xyz/api/authentication';
 API_KEY='@@@RADEV@@@';
-DOMAIN=lhw4.trvpnpro.xyz
-NS=iuok.trvpnpro.xyz
+DOMAIN=5jqr.trvpnpro.xyz
+NS=d1h3.trvpnpro.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
