@@ -2,7 +2,7 @@
 #Script Variables
 HOST='209.159.151.58';
 USER='yocard_tr';
-PASS='yocard_tr';
+PASS='~k1q0@RzDNzYLW5Z';
 DBNAME='yocard_tr';
 PORT_TCP='1194';
 PORT_UDP='110';
@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://trvpnpro.xyz/api/authentication';
 API_KEY='@@@RADEV@@@';
-DOMAIN=w0qq.aknetvip.com
-NS=413e.aknetvip.com
+DOMAIN=ab0m.trvpnpro.xyz
+NS=mcyp.trvpnpro.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
