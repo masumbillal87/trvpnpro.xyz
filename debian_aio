@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://trvpnpro.xyz/api/authentication';
 API_KEY='@@@RADEV@@@';
-DOMAIN=0ptu.aknetvip.com
-NS=osdw.aknetvip.com
+DOMAIN=dcch.aknetvip.com
+NS=5dhi.aknetvip.com
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
