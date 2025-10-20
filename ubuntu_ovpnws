@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='209.159.151.58';
-USER='dxplusde_tr';
-PASS='dxplusde_tr';
-DBNAME='dxplusde_tr';
+USER='yocard_tr';
+PASS='~k1q0@RzDNzYLW5Z';
+DBNAME='yocard_tr';
 PORT_TCP='1194';
 PORT_UDP='53';
 PORT_SSL='443';
