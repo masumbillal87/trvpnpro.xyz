@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='209.159.151.58';
-USER='yocard_trvpn';
-PASS='yocard_trvpn';
-DBNAME='yocard_trvpn';
+HOST='138.252.125.108';
+USER='brkxyz_tr';
+PASS='brkxyz_tr';
+DBNAME='brkxyz_tr';
 PORT_TCP='1194';
 PORT_UDP='53';
 PORT_SSL='443';
