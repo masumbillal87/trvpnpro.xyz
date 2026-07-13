@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Variables
-HOST='138.252.125.108';
+HOST='162.4.112.50';
 USER='brkxyz_tr';
 PASS='brkxyz_tr';
 DBNAME='brkxyz_tr';
@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://trvpnpro.xyz/api/authentication';
 API_KEY='@@@RADEV@@@';
-DOMAIN=3k5t.trvpnpro.xyz
-NS=c4po.trvpnpro.xyz
+DOMAIN=xknv.trvpnpro.xyz
+NS=u5nc.trvpnpro.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
